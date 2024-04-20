@@ -1,2 +1,2 @@
 # Netflix-clone
-# This project is made by using html css
+# This project is made by using Html Css
