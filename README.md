@@ -1,2 +1,2 @@
-# netflix-clone
-# this project is made by using html css
+# Netflix-clone
+# This project is made by using html css
