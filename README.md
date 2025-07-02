@@ -1,6 +1,6 @@
 # 🎥 Netflix Clone 🎬
 
-A simple, responsive, and visually appealing **Netflix homepage clone** built using **HTML** and **CSS**. This project mimics the landing page UI of Netflix and is a great practice project for beginner frontend developers to improve layout and styling skills.
+A simple, responsive, and visually appealing **Netflix Homepage clone** built using **HTML** and **CSS**. This project mimics the landing page UI of Netflix and is a great practice project for beginner frontend developers to improve layout and styling skills.
 
 ---
 
